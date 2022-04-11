@@ -3,5 +3,4 @@
 - 🌱 I’m currently having experience with ReactJS, Nodejs, MySQL, MongoDB
 - 💞️ I'm looking to learn new technologies.
 - 📫 Reach me at manimegalan@gmail.com
-
-<!--- https://manimegalan.netlify.app/ --->
+- 🌐 Get to know me visit https://manimegalan.netlify.app/
